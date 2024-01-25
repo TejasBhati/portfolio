@@ -1,6 +1,6 @@
 // next.config.js
 module.exports = {
-    // Your existing configuration options go here
+    output: 'export',
   
     // Add the following export configuration
     exportPathMap: async function () {
