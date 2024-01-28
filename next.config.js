@@ -5,6 +5,7 @@ const nextConfig = {
     //     path: '/',
     //   },
     output: 'export',
+    basePath:'/portfolio'
 }
 
 module.exports = nextConfig
