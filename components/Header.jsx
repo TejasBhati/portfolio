@@ -56,7 +56,7 @@ const Header = () => {
   }, []); // Empty dependency array ensures that the effect runs only once during component mount
 
   return (
-    <header className={`${header ? 'py-5 bg-white shadow-lg dark:bg-accent' : 'py-6 dark:bg-transparent'} sticky top-0 z-30 transition-all ${pathname === '/' && 'bg-[#fef9f5]'}`}>
+    <header className={`${header ? 'py-5 bg-white shadow-lg dark:bg-accent' : 'py-5 dark:bg-transparent'} sticky top-0 z-30 transition-all ${pathname === '/' && 'bg-[#fef9f5]'}`}>
       <div className="container mx-auto">
        <div className="flex justify-between items-center">
          <Logo />
