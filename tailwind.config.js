@@ -72,7 +72,7 @@ module.exports = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       backgroundImage:{
-        hero:'url(/hero/hero-bg.png)',
+        hero:'url("https://drive.google.com/file/d/1l0FJirgJ7FjZWb9Bk1lzoCzj_9kHnkae/view?usp=drive_link")',
         hero_shape:'url(/hero/shape-1.svg)',
         hero_shape_2_light:'url(/hero/shape-2-light.svg)',
         hero_shape_2_dark:'url(/hero/shape-2-dark.svg)',
