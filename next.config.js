@@ -9,7 +9,7 @@ const nextConfig = {
 
 
     // Optional: Change the output directory `out` -> `dist`
-  distDir: 'dist',
+  // distDir: 'dist',
   // basePath: '/portfolio',
 }
 
