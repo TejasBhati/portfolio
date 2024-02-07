@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import TejasLogo from '@/public/logo_tejas.svg'
+import TejasLogo from '../public/logo_tejas.svg'
 
 const Logo = () => {
   return (
