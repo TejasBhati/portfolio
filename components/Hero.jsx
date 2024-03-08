@@ -5,7 +5,7 @@ import { RiBriefcase4Fill, RiTeamFill, RiTodoFill, RiArrowDownSLine } from 'reac
 import DevloperImage from "./DevloperImage"
 import Badge from "./Badge"
 import SocialMedias from "./SocialMedias"
-import profilePic from "../public/hero/tejas.png"
+import profilePic from "./public/hero/tejas.png"
 
 const Hero = () => {
     return (
