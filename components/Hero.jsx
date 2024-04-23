@@ -46,7 +46,7 @@ const Hero = () => {
                         icon={<RiTeamFill />} endCountNum={9.2} badgeText='CGPA' />
                         <div className="bg-hero_shape_2_light dark:bg-hero_shape_2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 -right-2">
 
-                            <DevloperImage containerStyles="bg-hero_shape w-[509px] h-[462px] bg-no-repeat relative bg-bottom" imageSrc='/about/tejas.png' />
+                            <DevloperImage containerStyles="bg-hero_shape w-[509px] h-[462px] bg-no-repeat relative bg-bottom" imageSrc='https://media.githubusercontent.com/media/TejasBhati/portfolio/main/public/hero/tejas.png' />
                         </div>
                     </div>
                 </div>

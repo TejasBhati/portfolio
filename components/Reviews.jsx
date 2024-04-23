@@ -10,7 +10,7 @@ import { Card, CardHeader,CardTitle, CardDescription } from "./ui/card";
 import Image from 'next/image';
 const reviewsData = [
     {
-        avatar: '/reviews/avatar-1.png',
+        avatar: 'https://media.githubusercontent.com/media/TejasBhati/portfolio/main/public/reviews/avatar-1.png',
         name: 'Richard Thompson',
         job:
             'Chef',
@@ -18,7 +18,7 @@ const reviewsData = [
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos quo voluptas tempora delectus dicta.',
     },
     {
-        avatar: '/reviews/avatar-2.png',
+        avatar: 'https://media.githubusercontent.com/media/TejasBhati/portfolio/main/public/reviews/avatar-2.png',
         name: 'Richard Thompson',
         job:
             'Chef',
@@ -26,7 +26,7 @@ const reviewsData = [
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos quo voluptas tempora delectus dicta.',
     },
     {
-        avatar: '/reviews/avatar-4.png',
+        avatar: 'https://media.githubusercontent.com/media/TejasBhati/portfolio/main/public/reviews/avatar-3.png',
         name: 'Richard Thompson',
         job:
             'Chef',
@@ -34,7 +34,7 @@ const reviewsData = [
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos quo voluptas tempora delectus dicta.',
     },
     {
-        avatar: '/reviews/avatar-3.png',
+        avatar: 'https://media.githubusercontent.com/media/TejasBhati/portfolio/main/public/reviews/avatar-5.png',
         name: 'Richard Thompson',
         job:
             'Chef',

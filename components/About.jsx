@@ -124,7 +124,7 @@ const About = () => {
                 <div className="flex flex-colxl:flex-row">
                     <div className="hidden xl:flex flex-1 relative">
                         {/* image */}
-                        <DevloperImage containerStyles='bg-about_shape_light dark:bg-about_shape_dark w-[505px] h-[505px] bg-no-repeat relative' imageSrc='/about/tejas.png' />
+                        <DevloperImage containerStyles='bg-about_shape_light dark:bg-about_shape_dark w-[505px] h-[505px] bg-no-repeat relative' imageSrc='https://media.githubusercontent.com/media/TejasBhati/portfolio/main/public/hero/tejas.png' />
 
                     </div>
                     {/* tabs */}
